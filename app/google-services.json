@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "253117001584",
+    "firebase_url": "https://ex85firechattingt.firebaseio.com",
+    "project_id": "ex85firechattingt",
+    "storage_bucket": "ex85firechattingt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253117001584:android:6656ea989b77a6a634a9b5",
+        "android_client_info": {
+          "package_name": "com.ahnsafety.ex85firebasechatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253117001584-ijq792ssbha4apafqofja5r66pdpqlim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSyjkzlmoh2kCYrDW4Dy90Cjw1FongvQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253117001584-ijq792ssbha4apafqofja5r66pdpqlim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
